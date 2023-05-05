@@ -1,0 +1,156 @@
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.ConsoleUI\bin\Debug\net6.0\appsettings.json
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.ConsoleUI\bin\Debug\net6.0\Quiz.ConsoleUI.exe
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.ConsoleUI\bin\Debug\net6.0\Quiz.ConsoleUI.deps.json
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.ConsoleUI\bin\Debug\net6.0\Quiz.ConsoleUI.runtimeconfig.json
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.ConsoleUI\bin\Debug\net6.0\Quiz.ConsoleUI.dll
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.ConsoleUI\bin\Debug\net6.0\Quiz.ConsoleUI.pdb
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.ConsoleUI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.ConsoleUI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.ConsoleUI\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.ConsoleUI\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.ConsoleUI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.ConsoleUI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.ConsoleUI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.ConsoleUI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.ConsoleUI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.ConsoleUI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.ConsoleUI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.ConsoleUI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.ConsoleUI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.ConsoleUI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.ConsoleUI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.ConsoleUI\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.ConsoleUI\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.ConsoleUI\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.ConsoleUI\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.ConsoleUI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.ConsoleUI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.ConsoleUI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.ConsoleUI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.ConsoleUI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.ConsoleUI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.ConsoleUI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.ConsoleUI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.ConsoleUI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.ConsoleUI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.ConsoleUI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.ConsoleUI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.ConsoleUI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.ConsoleUI\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.ConsoleUI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.ConsoleUI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.ConsoleUI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.ConsoleUI\bin\Debug\net6.0\System.Text.Json.dll
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.ConsoleUI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.ConsoleUI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.ConsoleUI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.ConsoleUI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.ConsoleUI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.ConsoleUI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.ConsoleUI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.ConsoleUI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.ConsoleUI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.ConsoleUI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.ConsoleUI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.ConsoleUI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.ConsoleUI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.ConsoleUI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.ConsoleUI\bin\Debug\net6.0\Quiz.Data.dll
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.ConsoleUI\bin\Debug\net6.0\Quiz.Models.dll
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.ConsoleUI\bin\Debug\net6.0\Quiz.Data.pdb
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.ConsoleUI\bin\Debug\net6.0\Quiz.Models.pdb
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.ConsoleUI\obj\Debug\net6.0\Quiz.ConsoleUI.csproj.AssemblyReference.cache
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.ConsoleUI\obj\Debug\net6.0\Quiz.ConsoleUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.ConsoleUI\obj\Debug\net6.0\Quiz.ConsoleUI.AssemblyInfoInputs.cache
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.ConsoleUI\obj\Debug\net6.0\Quiz.ConsoleUI.AssemblyInfo.cs
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.ConsoleUI\obj\Debug\net6.0\Quiz.ConsoleUI.csproj.CoreCompileInputs.cache
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.ConsoleUI\obj\Debug\net6.0\Quiz.ConsoleUI.csproj.CopyComplete
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.ConsoleUI\obj\Debug\net6.0\Quiz.ConsoleUI.dll
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.ConsoleUI\obj\Debug\net6.0\refint\Quiz.ConsoleUI.dll
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.ConsoleUI\obj\Debug\net6.0\Quiz.ConsoleUI.pdb
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.ConsoleUI\obj\Debug\net6.0\Quiz.ConsoleUI.genruntimeconfig.cache
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.ConsoleUI\obj\Debug\net6.0\ref\Quiz.ConsoleUI.dll
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.ConsoleUI\bin\Debug\net6.0\Quiz.Service.dll
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.ConsoleUI\bin\Debug\net6.0\Quiz.Service.pdb
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.ConsoleUI\bin\Debug\net6.0\Humanizer.dll
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.ConsoleUI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.ConsoleUI\bin\Debug\net6.0\Importers\QuizQuestionsJSON.txt
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.ConsoleUI\bin\Debug\net6.0\QuizQuestionsJSON.txt
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.ConsoleUI\bin\Debug\net6.0\Quiz.ConsoleUI.exe
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.ConsoleUI\bin\Debug\net6.0\Importers\QuizQuestionsJSON.txt
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.ConsoleUI\bin\Debug\net6.0\appsettings.json
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.ConsoleUI\bin\Debug\net6.0\QuizQuestionsJSON.txt
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.ConsoleUI\bin\Debug\net6.0\Quiz.ConsoleUI.deps.json
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.ConsoleUI\bin\Debug\net6.0\Quiz.ConsoleUI.runtimeconfig.json
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.ConsoleUI\bin\Debug\net6.0\Quiz.ConsoleUI.dll
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.ConsoleUI\bin\Debug\net6.0\Quiz.ConsoleUI.pdb
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.ConsoleUI\bin\Debug\net6.0\Humanizer.dll
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.ConsoleUI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.ConsoleUI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.ConsoleUI\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.ConsoleUI\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.ConsoleUI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.ConsoleUI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.ConsoleUI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.ConsoleUI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.ConsoleUI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.ConsoleUI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.ConsoleUI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.ConsoleUI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.ConsoleUI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.ConsoleUI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.ConsoleUI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.ConsoleUI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.ConsoleUI\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.ConsoleUI\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.ConsoleUI\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.ConsoleUI\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.ConsoleUI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.ConsoleUI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.ConsoleUI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.ConsoleUI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.ConsoleUI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.ConsoleUI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.ConsoleUI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.ConsoleUI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.ConsoleUI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.ConsoleUI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.ConsoleUI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.ConsoleUI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.ConsoleUI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.ConsoleUI\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.ConsoleUI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.ConsoleUI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.ConsoleUI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.ConsoleUI\bin\Debug\net6.0\System.Text.Json.dll
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.ConsoleUI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.ConsoleUI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.ConsoleUI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.ConsoleUI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.ConsoleUI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.ConsoleUI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.ConsoleUI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.ConsoleUI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.ConsoleUI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.ConsoleUI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.ConsoleUI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.ConsoleUI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.ConsoleUI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.ConsoleUI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.ConsoleUI\bin\Debug\net6.0\Quiz.Data.dll
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.ConsoleUI\bin\Debug\net6.0\Quiz.Models.dll
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.ConsoleUI\bin\Debug\net6.0\Quiz.Service.dll
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.ConsoleUI\bin\Debug\net6.0\Quiz.Data.pdb
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.ConsoleUI\bin\Debug\net6.0\Quiz.Service.pdb
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.ConsoleUI\bin\Debug\net6.0\Quiz.Models.pdb
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.ConsoleUI\obj\Debug\net6.0\Quiz.ConsoleUI.csproj.AssemblyReference.cache
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.ConsoleUI\obj\Debug\net6.0\Quiz.ConsoleUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.ConsoleUI\obj\Debug\net6.0\Quiz.ConsoleUI.AssemblyInfoInputs.cache
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.ConsoleUI\obj\Debug\net6.0\Quiz.ConsoleUI.AssemblyInfo.cs
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.ConsoleUI\obj\Debug\net6.0\Quiz.ConsoleUI.csproj.CoreCompileInputs.cache
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.ConsoleUI\obj\Debug\net6.0\Quiz.ConsoleUI.csproj.CopyComplete
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.ConsoleUI\obj\Debug\net6.0\Quiz.ConsoleUI.dll
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.ConsoleUI\obj\Debug\net6.0\refint\Quiz.ConsoleUI.dll
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.ConsoleUI\obj\Debug\net6.0\Quiz.ConsoleUI.pdb
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.ConsoleUI\obj\Debug\net6.0\Quiz.ConsoleUI.genruntimeconfig.cache
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.ConsoleUI\obj\Debug\net6.0\ref\Quiz.ConsoleUI.dll

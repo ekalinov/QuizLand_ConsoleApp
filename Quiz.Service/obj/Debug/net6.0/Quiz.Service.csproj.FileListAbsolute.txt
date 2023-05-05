@@ -1,0 +1,38 @@
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.Service\bin\Debug\net6.0\Quiz.Service.deps.json
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.Service\bin\Debug\net6.0\Quiz.Service.dll
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.Service\bin\Debug\net6.0\Quiz.Service.pdb
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.Service\bin\Debug\net6.0\Quiz.Data.dll
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.Service\bin\Debug\net6.0\Quiz.Models.dll
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.Service\bin\Debug\net6.0\Quiz.Data.pdb
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.Service\bin\Debug\net6.0\Quiz.Models.pdb
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.Service\obj\Debug\net6.0\Quiz.Service.csproj.AssemblyReference.cache
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.Service\obj\Debug\net6.0\Quiz.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.Service\obj\Debug\net6.0\Quiz.Service.AssemblyInfoInputs.cache
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.Service\obj\Debug\net6.0\Quiz.Service.AssemblyInfo.cs
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.Service\obj\Debug\net6.0\Quiz.Service.csproj.CoreCompileInputs.cache
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.Service\obj\Debug\net6.0\Quiz.Service.csproj.CopyComplete
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.Service\obj\Debug\net6.0\Quiz.Service.dll
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.Service\obj\Debug\net6.0\refint\Quiz.Service.dll
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.Service\obj\Debug\net6.0\Quiz.Service.pdb
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.Service\obj\Debug\net6.0\ref\Quiz.Service.dll
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.Service\bin\Debug\net6.0\appsettings.json
+D:\Emo\SU_repos\Entity Framework Core\QuizWorkshop\Quiz.Service\bin\Debug\net6.0\Importers\QuizQuestionsJSON.txt
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.Service\obj\Debug\net6.0\Quiz.Service.csproj.AssemblyReference.cache
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.Service\obj\Debug\net6.0\Quiz.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.Service\obj\Debug\net6.0\Quiz.Service.AssemblyInfoInputs.cache
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.Service\obj\Debug\net6.0\Quiz.Service.AssemblyInfo.cs
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.Service\obj\Debug\net6.0\Quiz.Service.csproj.CoreCompileInputs.cache
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.Service\obj\Debug\net6.0\Quiz.Service.dll
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.Service\obj\Debug\net6.0\refint\Quiz.Service.dll
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.Service\obj\Debug\net6.0\Quiz.Service.pdb
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.Service\bin\Debug\net6.0\appsettings.json
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.Service\bin\Debug\net6.0\Importers\QuizQuestionsJSON.txt
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.Service\bin\Debug\net6.0\Quiz.Service.deps.json
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.Service\bin\Debug\net6.0\Quiz.Service.dll
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.Service\bin\Debug\net6.0\Quiz.Service.pdb
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.Service\bin\Debug\net6.0\Quiz.Data.dll
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.Service\bin\Debug\net6.0\Quiz.Models.dll
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.Service\bin\Debug\net6.0\Quiz.Data.pdb
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.Service\bin\Debug\net6.0\Quiz.Models.pdb
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.Service\obj\Debug\net6.0\Quiz.Service.csproj.CopyComplete
+D:\Emo\SU_repos\QuizConsoleApp\Quiz.Service\obj\Debug\net6.0\ref\Quiz.Service.dll

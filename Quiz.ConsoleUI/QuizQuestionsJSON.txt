@@ -1,0 +1,2126 @@
+<Quiz> <QuizTitle>General Knowledge Quiz<QuizTitle/>
+<Description>Following general knowledge multiple choice trivia questions can help you stay up to date on important topics while also improving your critical thinking skills. It also keeps you informed of the latest occasions. <Description/>
+
+
+
+<Questions>
+17. Which one of the following islands is not in Scotland?
+A. Isle of Skye
+B. Islay
+C. Isle of Mull
+D. Caladesi Island
+Answer: D
+
+18. Which natural landmark is not in Australia?
+A. Moeraki Boulders
+B. The Great Barrier Reef
+C. Uluru
+D. 12 Apostles
+Answer: A
+
+19. Which month is the aquamarine the birthstone of?
+A. January
+B. March
+C. June
+D. September
+Answer: B
+
+20. “Onze” is the French number for?
+A. 3
+B. 8
+C. 9
+D. 11
+Answer: D
+
+27. In which country is the baht the currency?
+A. Vietnam
+B. Malaysia
+C. Indonesia
+D. Thailand
+Answer: D
+
+1. In which Italian city can you find the Colosseum?
+A. Venice
+B. Rome
+C. Naples
+D. Milan
+Answer: B
+
+2. Who wrote Catch-22?
+A. Mark Twain
+B. Ernest Hemingway
+C. Charles Dickens
+D. Joseph Heller
+Answer: D
+
+3. When were Guy Fawkes and The Gunpowder Plot discovered?
+A.1505
+B.1605
+C.1705
+D.1805
+Answer: B
+
+4. What is the name of the main character in Pride and Prejudice?
+A. Bernadette Smith
+B. Poppy Williams
+C. Elizabeth Bennet
+D. Maggie Johnson
+Answer: C
+
+5. Which country does not share a border with Romania?
+A. Ukraine
+B. Bulgaria
+C. Hungary
+D. Poland
+Answer: D
+
+6. How many sides has a Hexagon?
+A. 5
+B. 6
+C. 7
+D. 8
+Answer: B
+
+7. What is the longest river in the world?
+A. Amazon River
+B. Nile
+C. Yellow River
+D. Congo River
+Answer: B
+
+8. Which country is the footballer Cristiano Ronaldo from?
+A. Spain
+B. Brazil
+C. Uruguay
+D. Portugal
+Answer: D
+
+9. What does the Richter scale measure?
+A. Wind Speed
+B. Temperature
+C. Tornado Strength
+D. Earthquake intensity
+Answer: D
+
+10. Which artist and author made the Smurfs comic strips?
+A. Hergé
+B. Peyo
+C. Morris
+D. Edgar P. Jacobs
+Answer: B
+
+11. In which city is the Juventus Football Club based?
+A. Turin
+B. Barcelona
+C. Manchester
+D. Marseille
+Answer: A
+
+12. How many wives did Henry VIII have?
+A. 1
+B. 3
+C. 4
+D. 6
+Answer: D
+
+13. If you are born on the 1st of January, which star sign are you?
+A. Scorpio
+B. Capricorn
+C. Libra
+D. Aries
+Answer: B
+
+14. Which famous inventor invented the telephone?
+A. Thomas Edison
+B. Benjamin Franklin
+C. Alexander Graham Bell
+D. Nikola Tesla
+Answer: C
+
+15. Who was George W. Bush’ vice president?
+A. Kamala Harris
+B. Joe Biden
+C. Dick Cheney
+D. Al Gore
+Answer: C
+
+16. Which French king was nicknamed the “Sun King”?
+A. Louis XVI
+B. Charlemagne
+C. Francis I
+D. Louis XIV
+Answer: D
+
+17. What is the largest continent in size?
+A. Asia
+B. Africa
+C. Europe
+D. North America
+Answer: A
+
+18. When did Hitler invade Poland?
+A. 1st September 1939
+B. 11th November 1939
+C. 8th May 1940
+D. 1st December 1940
+Answer: A
+
+19. In the Big Bang Theory, what is the name of Sheldon and Leonard’s neighbour?
+A. Penny
+B. Patty
+C. Lily
+D. Jessie
+Answer: A
+
+20. When did Salt Lake City host the Winter Olympics?
+A. 1992
+B. 1998
+C. 2002
+D. 2008
+Answer: C
+
+21. In which city can you find the Prado Museum?
+A. Buenos Aires
+B. Barcelona
+C. Santiago
+D. Madrid
+Answer: D
+
+22. In which museum can you find Leonardo Da Vinci’s Mona Lisa?
+A. Le Louvre
+B. Uffizi Museum
+C. British Museum
+D. Metropolitan Museum of Art
+Answer: A
+
+23. When was the book “To Kill a Mockingbird” by Harper Lee published?
+A. 1950
+B. 1960
+C. 1970
+D. 1980
+Answer: B
+
+24. In which US state did the Scopes Monkey Trial happen?
+A. Maryland
+B. South Dakota
+C. Indiana
+D. Tennessee
+Answer: D
+
+25. When did Lenin die?
+A. 21 January 1924
+B. 21 January 1934
+C. 21 January 1944
+D. 21 January 1954
+Answer: A
+
+26. What is the largest active volcano in the world?
+A. Mount Etna
+B. Mount Vesuvius
+C. Mouna Loa
+D. Mount Batur
+Answer: C
+
+27. How long is the border between the United States and Canada?
+A. 3,525 miles
+B. 4,525 miles
+C. 5,525 miles
+D. 6,525 miles
+Answer: C
+
+28. What is the largest canyon in the world?
+A. Verdon Gorge, France
+B. King’s Canyon, Australia
+C. Grand Canyon, USA
+D. Fjaðrárgljúfur Canyon, Iceland
+Answer: C
+
+29. In the TV show New Girl, which actress plays Jessica Day?
+A. Zooey Deschanel
+B. Kaley Cuoco
+C. Jennifer Aniston
+D. Alyson Hannigan
+Answer: A
+
+30. When was the first Harry Potter book published?
+A. 1997
+B. 1999
+C. 2001
+D. 2003
+Answer: A
+
+
+3. Which one of the following companies has a mermaid in its logo?
+A. Twitter
+B. HSBC
+C. Target
+D. Starbucks
+Answer: D
+
+4. What is the capital of New Zealand?
+A. Christchurch
+B. Wellington
+C. Auckland
+D. Dunedin
+Answer: B
+
+5.  Which constellation is on the Australian flag?
+A. The southern cross
+B. Orion
+C. Ursa Minor
+D. Scorpius
+Answer: A
+
+6. What is the national animal of England?
+A. Puffin
+B. Lion
+C. Rabbit
+D. Fox
+Answer: B
+
+
+
+13. What does NASA stand for?
+A. National Aeronautics and Space Administration
+B. Nautical And Space Association
+C. National Aeronautics and Space Association
+D. New Aeronautics and Spacial Administration
+Answer: A
+ <Questions/>
+ <Quiz/>
+
+
+
+
+
+
+<Quiz> <QuizTitle>Fun Quiz<QuizTitle/>
+<Description>Our collection of fun multiple-choice questions includes questions about art, sports, travel, and a variety of other topics. The majority of people are interested in discussing the aforementioned niches, which makes it enjoyable for them to overcome. <Description/>
+
+<Questions>
+1. The original name of candy corn is?
+A. Chicken feed
+B. Sweet corn
+C. Yellow corn
+D. Cornable
+Answer: A
+
+2. America’s national dish?
+A. Hamburger
+B. Burger
+C. Pizza
+D. Chicken Soup
+Answer: A
+
+3. Which animal cannot walk backward?
+A. Kangaroo
+B. Cheetah
+C. Ant 
+D. Horse
+Answer: A
+
+4. The people who love to eat ice are called?
+A. Papaya
+B. Pagophagia
+C. Icemen
+Answer: B
+
+5. Which bird cannot move his eye?
+A. Owl
+B. Mouse
+C. Crowl
+D. Mocking bird
+Answer: A
+
+6. Which fruit originates from China?
+A. Strawberry 
+B. Apple
+C. Kiwi
+D. Coconuts
+Answer: C
+
+7. Gambrinus peoples are?
+A. A person who is full of beer
+B. A person full of money
+Answer: A
+
+8. What is the full name of Scooby-doo?
+A. Schobert doo
+B. Doo
+Answer: A
+
+
+9. Laughing jackass is the nickname of which animal?
+A. Dog
+B. Kookaburra
+Answer: B
+
+10. Which color of toilet paper was used by the people of France?
+A. Pink
+B. Yellow
+Answer: A
+
+25. What colour is the “m” from the McDonald’s logo?
+A. Blue
+B. Red
+C. Yellow
+D. Black
+Answer: C
+
+1. Who painted ‘Girl with a Pearl Earring’?
+A. Johannes Vermeer
+B. Vincent Van Gogh
+C. Leonardo da Vinci
+D. Sandro Botticelli
+Answer: A
+
+2. When is St. Patrick’s Day?
+A. 7 March
+B. 17 March
+C. 27 March
+D. 7 April
+Answer: B 
+
+3. How many elements are there on the periodic table?
+A. 58
+B. 78
+C. 98
+D. 118
+Answer: D
+
+4. Which chemical element has Ag as a symbol?
+A. Gold
+B. Silver
+C. Iron
+D. Carbon
+Answer: B
+
+5. How high is Mount Everest?
+A. 5,849 m
+B. 6,849 m
+C. 7,849 m
+D. 8,849 m
+Answer: D
+
+6. What is the highest mountain in Japan?
+A. Mount Tate
+B. Mount Kita
+C. Mount Fuji
+D. Mount Yari
+Answer: C
+
+7. How many years did Nelson Mandela spend in prison?
+A. 7
+B. 17
+C. 27
+D. 37
+Answer: C
+
+8. What’s Garfield’s favourite food?
+A. Pizza
+B. Lasagna
+C. Burger
+D. Sandwich
+Answer: B
+
+9. Which one of the following artists wasn’t part of the Rolling Stones?
+A. Mick Jagger
+B. Keith Richards
+C. Charlie Watts
+D. Jimmy Page
+Answer: D
+
+10. Who lives at the following address ‘10 Downing Street’?
+A. US President
+B. French President
+C. UK Prime Minister
+D. Scotland First Minister
+Answer: C
+
+11. Which one of the following is not a character in the cartoon “The Powerpuff Girls”?
+A. Blossom
+B. Butterfly
+C. Bubbles
+D. Buttercup
+Answer: B
+
+12. Which one of the following is the correct spelling?
+A. Maintanence
+B. Maintenance
+C. Meintenance
+D. Maintanance
+Answer: B
+
+13. Which actress played Emily Cooper in “Emily in Paris”?
+A. Lily Collins
+B. Lily James
+C. Gal Gadot
+D. Anna Kendrick
+Answer: A
+
+14. In which Disney movie can you see a character named Mr. Banks?
+A. Ariel
+B. Mary Poppins
+C. Pinocchio
+D. The Beauty and the Tramp
+Answer: B
+
+15. Make a Mille-feuille?
+A.  Puff pastry
+B. Flaky Pastry
+C. Choux Pastry
+D. Shortcrust Pastry
+Answer: A
+
+16. In Mamma Mia, which one of the following actors didn’t play one of Sophie’s dad?
+A. Pierce Brosman
+B. Colin Firth
+C. Hugh Grant
+D. Stellan Skarsgård
+Answer: C
+
+17. In Home Alone, where were the McCallister flying to when they left Kevin?
+A. England
+B. Florida
+C. France
+D. Mexico
+Answer: C
+
+18. Which Nobel Prize did Winston Churchill win?
+A. Literature
+B. Peace
+C. Chemistry
+D. Physics
+Answer: A
+
+19. The Union Jack is the name of which country’s flag?
+A. USA
+B. UK
+C. Australia
+D. New Zealand
+Answer: B
+
+20. Mallorca is part of which archipelago?
+A. Balearic Islands
+B. Canary Islands
+C. Whitsunday Islands
+D. Galapagos Islands
+Answer: A
+
+21. Which historical battle is featured in the TV series “Outlander”?
+A. Battle of Trafalgar
+B. Battle of Culloden
+C. Battle of Inkerman
+D. Battle of the Alma
+Answer: B
+
+22. What was the first national park in the US?
+A. Yellowstone National Park
+B. Great Smoky Mountains National Park
+C. Zion National Park
+D. Rocky Mountain National Park
+Answer: A
+
+23. Which city was covered in ashes during the eruption of Mount Vesuvius in 79 AD?
+A. Rome
+B. Catania
+C. Pompeii
+D. Naples
+Answer: C
+
+24. Who discovered the tumb of Tutankhamun?
+A. Howard Carter
+B. Arthur Evans
+C. Mortimer Wheeler
+D. Kathleen Kenyon
+Answer: A
+
+25. Who famously said “Veni, vidi, vici”?
+A. Winston Churchill
+B. Charles de Gaulle
+C. Julius Caesar
+D. Alexander the Great
+Answer: C
+
+26. During which historical period is the movie ‘Schindler’s List’ set?
+A. Vietnam War
+B. WWI
+C. WWII
+D. War of Roses
+Answer: C
+
+27. Which fruit is at the top of the Wimbledon gentlemen’s singles trophy?
+A. Strawberry
+B. Pineapple
+C. Mango
+D. Apple
+Answer: B
+
+28. What was Daniel Craig’s first James Bond movie?
+A. No time to Die
+B. Casino Royale
+C. Skyfall
+D. Quantum of Solace
+Answer: B
+
+29. What is the currency in Poland?
+A. Polish Pounds
+B. Polish Krone
+C. Polish Dollars
+D. Polish Zloty
+Answer: B
+
+30. How many bones are there in an adult human body?
+A. 186
+B. 206
+C. 286
+D. 306
+Answer: B
+<Questions/>
+ <Quiz/>
+
+
+
+
+<Quiz> <QuizTitle>Easy Quizzy<QuizTitle/>
+<Description>If you want to do something fun with your kids while also doing something beneficial, this set of easy trivia questions with multiple choice answers may be of assistance. It can be both fun and educational. <Description/>
+<Questions>
+1. What city held the 1996 Summer Olympics?
+A. Barcelona
+B. Sydney
+C. Atlanta
+D. Seoul
+Answer: C
+
+2. What’s another country that uses the dollar as its official currency?
+A. Ecuador
+B. Mexico
+C. United Kingdom
+D. Canada
+Answer: A
+
+3. Which continent is the home of Chile, Argentina and Brazil?
+A. North America
+B. Australia
+C. South America
+Answer: C
+
+4. Andy Warhol featured what soup brand in one of his pop art pieces?
+A. Baxters
+B. Knorr
+C. Heinz
+D. Campbell’s
+Answer: D
+
+5. Which US city is the sunniest major city and sees more than 320 sunny days each year?
+A. Phoenix
+B. Miami
+C. San Francisco
+D. Austin
+Answer: D
+
+6. What organ is the heaviest in the body?
+A. Skin
+B. Heart
+C. Brain
+D. Liver
+Answer: D
+
+7. Who has the record for most three-pointers in NBA playoffs history?
+A. Kevin Durant
+B. Lebron James
+C. Kyle Korver
+D. Steph Curry
+Answer: D
+
+8. What tourist attraction is visited more than any other in the world?
+A. Eiffel Tower
+B. Statue of Liberty
+C. Great Wall of China
+D. Colosseum.
+Answer: D
+
+9. What was the first surrealist painting by René Magritte?
+A. Personal Values
+B. The Lost Jockey
+C. The Lovers
+Answer: B
+
+10. What Grammy-award-winning artist purchased Myspace in 2011?
+A. Nick Lachey
+B. Shawn Stockman
+C. Justin Timberlake
+D. AJ McLean
+Answer: C
+
+11. What food can’t go bad?
+A. Canned tuna
+B. Honey
+C. Dark chocolate
+D. Peanut butter
+Answer: B
+
+1. What is the name of the popular new show about elementary school teachers?
+A. Avery elementary
+B. Alan elementary
+C. Abbott elementary
+D. Alvin elementary
+Answer: C
+
+2. Who won a Grammy for album of the year in 2022?
+A. Megan the stallion
+B. Jon Batiste
+C. Billie Eilish
+D. Beyonce
+Answer: B
+
+3. What year in the 90s did Friends premiere?
+A. 1992
+B. 1995
+C. 1994
+D. 1991
+Answer: C
+
+4. What do the stripes represent on the American flag?
+A. The US states
+B. The thirteen colonies
+C. The founders
+D. The date the constitution was signed
+Answer: B
+
+5. Who is the richest self-help author?
+A. Les Brown
+B. Tony Robbins
+C. Deepak Chopra
+D. Jack Canfield
+Answer: B
+
+6. What is Saudi Arabia the biggest producer of?
+A. Oil
+B. Coal
+C. Coffee
+D. Bamboo
+Answer: A
+
+7. What ingredient is the core of a savory dish?
+A. Butter
+B. Salt
+C. Sugar
+D. Pepper
+Answer: B
+
+8. What is Brazil the biggest producer of?
+A. Rice
+B. Oil
+C. Coffee
+D. Burgers
+Answer: C
+
+9. What ingredient is used to make A la Crecy?
+A. Apples
+B. Bananas
+C. Potatoes
+D. Carrots
+Answer: D
+
+10. In what year did the Jonas Brothers make their comeback?
+A. 2019
+B. 2013
+C. 2015
+D. 2011
+Answer: A
+
+11. What is the national language of Canada?
+A. English
+B. Dutch
+C. French
+D. French and English
+Answer: D
+
+12. What woman holds the record for most Wimbledon Ladies singles titles?
+A. Martina Navratilova
+B. Venus Williams
+C. Martina Hingis
+D. Serena Williams
+Answer: A
+
+13. In 1997, Which band released the hit single ‘Barbie Girl’?
+A. ABBA
+B. Vanilla Ice
+C. Bjork
+D. Aqua
+Answer: D
+
+14. What bird is the fastest in flight?
+A. Golden eagle
+B. Road Runner
+C. Ostrich
+D. Peregrine falcon
+Answer: D
+<Questions/>
+ <Quiz/>
+
+<Quiz> <QuizTitle> The Hard One Quiz<QuizTitle/>
+<Description>Now that you’ve been playing trivia questions for a while, try our hard trivia questions multiple choice, which contain perplexed options that will surprise you. You are likely to find it difficult to respond. <Description/>
+
+<Questions>
+1. Arnold Schwarzenegger was married to a member of what famous US political family?
+A. The Kennedys
+B. The Bushes
+C. The Rockefellers
+D. The Kennedys
+Answer: D
+
+2. Where was the earliest documented case of the Spanish flu?
+A. USA
+B. Spain
+C. Mexico
+D. USA
+Answer: D
+
+3. Where was tea invented?
+A. England
+B. USA
+C. China
+D. Egypt
+Answer: C
+
+4. What is the longest-running Broadway show ever?
+A. Les Miserable
+B. The Lion King
+C. The Phantom of the Opera
+D. Cats
+Answer: C
+
+5. What is the strongest muscle in the human body?
+A. Jaw
+B. Heart
+C. Glutes
+D. Jaw
+Answer: D
+
+6. What Italian city is famous for its system of canals?
+A. Rome
+B. Naples
+C. Venice
+D. Verona
+Answer: C
+
+7. How long did dinosaurs live on the earth?
+A. 100-150 million years
+B. 150-200 million years
+C. 200+ million years
+D. <100 million years
+Answer: D
+
+8. Who directed the Academy award-winning movie, Gladiator?
+A. Ridley Scott
+B. James Cameron
+C. Steven Soderbergh
+D. Seven Spielberg 
+Answer: A
+
+9. Which of the following was considered one of the Seven Ancient Wonders?
+A. Colosseum
+B. Great Wall of China
+C. Colossus of Rhodes
+D. Niagara Falls 
+Answer: C
+
+10. How many plays do people (generally) believe that Shakespeare wrote?
+A. 27
+B. 37
+C. 47
+D. 77 
+Answer: B
+
+11. Which Game of Thrones character is known as the Young Wolf?
+A. Robb Stark
+B. Arya Stark
+C. Sansa Stark
+Answer: A
+
+12. Which app has the most total users?
+A. TikTok
+B. Snapchat
+C. Instagram
+Answer: C
+
+13. What is the largest US state (by landmass)?
+A. Texas
+B. Alaska
+C. California
+D. Florida
+Answer: B
+
+14. Which horoscope sign is a fish?
+A. Aquarius
+B. Cancer
+C. Pisces
+Answer: C
+
+15. What was the name of the Franco-British supersonic commercial plane that operated from A. 1976-2003?
+B. Accord
+C. Concorde
+D. Mirage
+Answer: C
+<Questions/>
+ <Quiz/>
+
+
+<Quiz> 
+<QuizTitle>Christmas Quiz<QuizTitle/>
+<Description>If you’re just done with watching the same old Christmas movies with family and friends this year, Christmas trivia multiple choice can be a great option. It will be different from your regular celebrations. <Description/>
+
+<Questions>
+1. Which actress has the lead role in “The Princess Switch”?
+A. Vanessa Hudgens
+B. Selena Gomez
+C. Jennifer Lawrence
+D. Scarlett Johansson
+Answer: A
+
+2. When was John Lewis’ first Christmas advert?
+A. 1987
+B. 1997
+C. 2007
+D. 2017
+Answer: C
+
+3. Which Christmas drink is made with milk?
+A. Mulled Wine
+B. Hot Toddy
+C. Christmas Punch
+D. Eggnog
+Answer: D
+
+4. Which brand is known for its big red Christmas truck?
+A. Cadbury
+B. Heinz
+C. Magnum
+D. Coca Cola
+Answer: D
+
+5. In which US State can you find a town called Christmas?
+A. California
+B. Florida
+C. Arizona
+D. Vermont
+Answer: B
+
+6. In which city can you see The Rockefeller Center Christmas Tree?
+A. New York City
+B. Tallinn
+C. Sydney
+D. New York City
+Answer: A
+
+7. Which vegetable can you find in Christmas trees in the US?
+A. A potato
+B. A pickle
+C. A cucumber
+D. An eggplant
+Answer: B
+
+8. What is the best selling Christmas album of all time?
+A. Merry Christmas by Mariah Carrey
+B. Christmas by Michael Bublé
+C. Elvis Christmas Album by Elvis Presley
+D. Noël by Josh Groban
+Answer: C
+
+9. Which food wouldn’t you find at Christmas dinner in France?
+A. Foie Gras
+B. Buche de Noel
+C. Cheese
+D. Galette des Rois
+Answer: D
+
+10. What is the highest-grossing Christmas movie of all time?
+A. A Christmas Carol
+B. Love Actually
+C. The Grinch
+D. Home Alone
+Answer: C
+<Questions/>
+ <Quiz/>
+
+
+<Quiz> <QuizTitle>Daily Quiz<QuizTitle/>
+<Description>A dose of daily multiple-choice trivia questions will aid your brain’s development. When someone asks you a few trivia questions, it can make you stand out among the large group. <Description/>
+<Questions>
+1. Which country won the first Football World Cup in 1930?
+A. Brazil
+B. Portugal
+C. Italy
+D. Uruguay
+Answer: D
+
+2. What is the capital of Iraq?
+A. Baghdad
+B. Islamabad
+C. Tehran
+D. Amman
+Answer: A
+
+3. Which ballroom dance originated in Germany and Austria?
+A. Salsa
+B. Waltz
+C. Jive
+D. Cha Cha
+Answer: B
+
+4. What was Euclid?
+A. A philosopher
+B. A poet
+C. A painter
+D. A mathematician
+Answer: D
+
+5. “When I find myself in times of trouble, Mother Mary comes to me” is the opening line of which song?
+A. Smells like teen spirit – Nirvana
+B. Get lucky – Daft Punk
+C. Sweet Child O’ Mine – Gun N’ Roses
+D. Let it be – The Beatles
+Answer: D
+
+6. Which band released the song “Wonderwall” in the 90s?
+A. Oasis
+B. Joy Division
+C. The Verge
+D. Nirvana
+Answer: A
+
+7. Which country was not part of the Axis Powers during WWII?
+A. Germany
+B. Italy
+C. Soviet Union
+D. Japan
+Answer: C
+
+8. Who is the CEO of Amazon?
+A. Elon Musk
+B. Tim Cook
+C. Mark Zuckerberg
+D. Jeff Bezos
+Answer: D
+
+9. Which battle did William the Conqueror win in 1066?
+A. Battle of Hastings
+B. Battle of Waterloo
+C. Battle of Borodino
+D. Battle of the Somme
+Answer: A
+
+10. If you are eating chicken jalfrezi, what type of food are you eating?
+A. French food
+B. Italian food
+C. Indian Food
+D. Mexican Food
+Answer: C
+
+11. Which author is known for creating Hercule Poirot?
+A. James Patterson
+B. Stephen King
+C. Arthur Conan Doyle
+D. Agatha Christie
+Answer: D
+
+1. Complete the name of this song “I Saw _______Kissing Santa Claus”.
+A. You
+B. Mommy
+C. Her
+D. Daddy
+Answer:B
+
+2. When was the first Christmas stamp in the US sold?
+A. 1942
+B. 1962
+C. 1982
+D. 2002
+Answer: B
+
+3. If you add up all the songs in the “12 days of Christmas”, how many would you get?
+A. 64
+B. 164
+C. 264
+D. 364
+Answer: D
+
+4. Which day is St. Stephen’s Day?
+A. 1st of December
+B. 24th of December
+C. 26th of December
+D. 1st of January
+Answer: C
+
+5. Jingle Bells was the first song broadcasted in space. When was it?
+A. 1965
+B. 1969
+C. 1972
+D. 1981
+Answer: A
+
+6. When did Michael Bublé release his album “Christmas”?
+A. 2006
+B. 2009
+C. 2011
+D. 2016
+Answer: C
+
+7. Which country gifts the UK the Christmas tree places on Trafalgar Square?
+A. USA
+B. Norway
+C. Denmark
+D. France
+Answer: B
+
+8. In which country are letters to Santa addressed to the post code “H0H 0H0”?
+A. Finland
+B. Scotland
+C. Mexico
+D. Canada
+Answer: D
+
+9. “Dashing through the snow, In a one-horse open sleigh” is the opening line of which Christmas song?
+A. O Holy Night
+B. Silent Night
+C. It’s beginning to look a lot like Christmas
+D. Jingle Bells
+Answer: D
+
+10. How old is the average Christmas tree?
+A. 1 year
+B. 5 years
+C. 10 years
+D. 15 years
+Answer: D
+
+11. How many years was Christmas banned in the UK (in the 17th century?
+A. 3 months
+B. 13 years
+C. 33 years
+D. 63 years
+Answer: B
+
+1. The fear of insects is known as what?
+A. Entomophobia
+B. Arachnophobia
+C. Ailurophobia
+Answer: A
+
+2. What spirit is used in making a Tom Collins?
+A. Vodka
+B. Rum
+C. Gin
+Answer: C
+
+3. Who was the lead singer of the band The Who?
+A. Roger Daltrey
+B. Don Henley
+C. Robert Plant
+Answer: A
+
+4. Which of the following languages has the longest alphabet?
+A. Greek
+B. Russian
+C. Arabic
+Answer: B
+
+5. What number was the Apollo mission that successfully put a man on the moon for the first time in human history?
+A. Apollo 11
+B. Apollo 12
+C. Apollo 13
+Answer: A
+
+6. If you were looking at Iguazu Falls, on what continent would you be?
+A. Asia
+B. Africa
+C. South America
+Answer: C
+
+7. Who is generally considered the inventor of the motor car?
+A. Henry Ford
+B. Karl Benz
+C. Henry M. Leland
+Answer: B
+
+8. Which city is home to the Brandenburg Gate?
+A. Vienna
+B. Zurich
+C. Berlin
+Answer: C
+
+9. What company makes the Xperia model of smartphone?
+A. Samsung
+B. Sony
+C. Nokia
+Answer: B
+
+10. Which flies a green, white, and orange (in that order) tricolor flag?
+A. Ireland
+B. Ivory Coast
+C. Italy
+Answer: C
+
+11. Who sang the title song for the latest Bond film, No Time to Die?
+A. Adele
+B. Sam Smith
+C. Billie Eilish
+Answer: C
+<Questions/>
+ <Quiz/>
+
+
+
+
+<Quiz> <QuizTitle>Movies and Music Quiz<QuizTitle/>
+<Description>If you watch one movie per day, it would be unfair if you couldn’t answer movie trivia questions multi-choice also Someone who finds music therapeutic should play music trivia multiple choice. It can evoke every emotion in you. These questions may prompt you to add new songs to your playlist.  The possible alternatives make it more straightforward to give an answer. <Description/>
+
+<Questions>
+1. Who directed the hit 2017 movie Get Out?
+A. James Wan
+B. Jordan Peele
+C. Guillermo del Toro
+D. Tim Story
+Answer: B
+
+
+7. What is the name of the gem in the movie Titanic?
+A. Call of the Ocean
+B. Heart of Love
+C. Heart of the Ocean
+D. Call of Love
+Answer: C
+
+8. On which streaming service did The Morning show premiere in 2019?
+A. Netflix
+B. Amazon Prime
+C. Apple TV+
+D. Dinsey +
+Answer: C
+
+9. What is Marshall’s job in How I met your mother?
+A. Architect
+B. Lawyer
+C. Teacher
+D. Journalist
+Answer: B
+
+10. Which Friends character’s famous pickup line is “How you doin’?
+A. Joey
+B. Ross
+C. Chandler
+D. Mike
+Answer: A
+
+11.What is “the Marbella” in Jane the Virgin?
+A. A dance
+B. A telenovela
+C. A hotel
+D. A police operation code name
+Answer: C
+
+22. Who released the song “Girls Just Want To Have Fun” in the 80s?
+A. Blondie
+B. Cyndi Lauper
+C. A-ha
+D. Bonnie Tyler
+Answer: B
+
+23. What is the name of the dog in Tintin?
+A. Snowy
+B. Flakes
+C. Dottie
+D. Luna
+Answer: A
+
+1. In The Lion King, who is Simba’s uncle?
+A. Mufasa
+B. Scar
+C. Timon
+D. Zazu
+Answer: B
+
+2. In Mean Girls, Cady moves to Illinois from which continent?
+A. Australia
+B. Europe
+C. Africa
+D. Asia
+Answer: C
+
+3. In The Ring, how long do people have to live after they watch a cursed videotape?
+A. Three days
+B. Seven days
+C. Five days
+D. One day
+Answer: B
+
+4. Who took home an Oscar for Best Actor in 1998?
+A. Matt Damon
+B. Jack Nicholson
+C. Liam Neeson
+D. Sean Penn
+Answer: B
+
+5. How old was the voice actress of Monster Inc.’s Boo at the time of production?
+A. Four
+B. Two and a half
+C. Six
+D. Ten
+Answer: B
+
+6. Who plays the convenience store clerk seen at the beginning of Juno?
+A. Bill Hader
+B. Rainn Wilson
+C. Andy Samberg
+D. Jonah Hill
+Answer: B
+
+7. Which movie does not feature Catherine O’Hara?
+A. Nothing Personal
+B. The Nightmare Before Christmas
+C. Beetlejuice
+D. City of Angels
+Answer: D
+
+8. What are the names of the two people behind Ghostface in Scream?
+A. Billy and Steve
+B. Bobby and Stu
+C. Bobby and Steve
+D. Billy and Stu
+Answer: B
+
+9. What year was the first Die Hard movie released?
+A. 1986
+B. 1988
+C. 1990
+D. 1991
+Answer: B
+
+10. Where was The Notebook filmed?
+A. Savannah, Georgia
+B. Wilmington, North Carolina
+C. Richmond, Virginia
+D. Charleston, South Carolina
+Answer: D
+
+1. Name the orchestral instrument that can play high notes?
+A. Viola
+B. Piccolo
+C. Violin
+D. Cellos
+Answer: C
+
+2. Name the band having its name after a scientist from the movie Barbarella?
+A. Duran Duran
+B. A Ha
+C. Nile Rodgers
+D. Tears for fears
+Answer: A
+
+3. A tribute to David Bowie’s ex-wife was given with a song by The Rolling stones, name the song?
+A. Wild Horses
+B. Gimme Shelter
+C. Angie
+D. Satisfaction
+Answer: C
+
+4. Name the singer who released the album, Here, My Dear?
+A. Frankie Gaye
+B. Bruno Mars
+C. Elton John
+D. Marvin Gaye
+Answer: D
+
+5. Name the singer who released the album Alf?
+A. Alison Moyet
+B. Aretha Louise Franklin
+C. Michael Joseph
+Answer: A
+
+6. In an Orchestra, which is the largest brass section instrument?
+A. Trumpet
+B. Tenor
+C. French horns
+D. Tuba
+Answer: D
+
+7. Bjork was lead singer of what Icelandic band before pursuing a solo career?
+A. Kukl
+B. The Sugarcubes
+C. Cocteau Twins
+D. The Elgar sisters
+Answer: B
+
+8. To consider a band as a Big Band what is the minimum number of musicians to be needed?
+A. 11
+B. 21
+C. 12
+D. 10
+Answer: D
+
+9. Name the person who replaced Ozzy Osbourne as Black Sabbath ‘s lead singer?
+A. Ronnie James Dio
+B. Judas Priest
+C. Dokken
+D. Whitesnake
+Answer: A
+
+10. Name the former Victoria Secret model who appear in the Guns N’ Roses videos “Don’t Cry” and “November Rain”?
+A. Christy Turlington
+B. Stephanie Seymour
+C. Karen Mulder
+D. Peter M Brant
+Answer: B
+<Questions/>
+ <Quiz/>
+
+<Quiz> <QuizTitle>Sports Quiz<QuizTitle/>
+<Description>The sports trivia multiple choice questions cover a wide range of games, including football, tennis, cricket, and golf, as well as famous events (such as the Olympics or the football World Cup) and, of course, famous athletes. <Description/>
+
+<Questions>
+1. What is the Ranji Trophy Tournament?
+A. Volleyball
+B. Kabaddi
+C. Football
+D. Cricket
+Answer: D
+
+14. How many players are in a cricket team?
+A. 8
+B. 9
+C. 10
+D. 11
+Answer: D
+
+26. In which city were the 2000 Summer Olympics held?
+A. London
+B. Paris
+C. Barcelona
+D. Sydney
+Answer: D
+
+
+2. Which Country does Lionel Messi belong to?
+A. PSG
+B. Argentina
+C. Portugal
+D. FC Barcelona
+Answer: B
+
+3. Who won Gold from India at the 2008 Summer Olympics?
+A.  Rajyavardhan Singh
+B. Abhinav Bindra
+C. Rathore Vijay Kumar
+D. Gagan Narang
+Answer: B
+
+4. What is the National Sports of Bangladesh?
+A. Kabaddi
+B. Volleyball
+C. Cricket
+D. Swimming
+Answer: A
+
+5. Which country will host the ICC Women’s Cricket World Cup 2023?
+A. Pakistan
+B. India
+C. Sri Lanka
+D. Bangladesh
+Answer: B
+
+6. At what age Valentino Rossi became the first Rider to contest his 400th Grand Prix?
+A. 39
+B. 50
+C. 40
+D. 29
+Answer: C
+
+5. Which Sport does Indian “Somdev Devvarman” play?
+A. Tennis
+B. Kabaddi
+C. Chess
+D. Badminton
+Answer: A
+
+6. What is the Distance of the Marathon Race?
+A. 100 Km
+B. 52,195 Km
+C. 42,195 Km
+D. 10 Km
+Answer: C
+
+7. Which Country has Buzkashi as their National Sport?
+A. Argentina
+B. Afghanistan
+C. Bhutan
+D. Puerto Rico
+Answer: B
+
+8. Which Country has Volleyball as its National Sport?
+A. Nepal
+B. Brazil
+C. Cuba
+D. Philippines
+Answer: A
+
+9. What is the National Sports of Canada?
+A. Cricket
+B. Ice hockey
+C. Field Hockey
+D. Football
+Answer: B
+
+10. When did India win its first Olympic Gold Medal?
+A. 1948
+B. 1952
+C. 1928
+D. 1964
+Answer: C
+<Questions/>
+ <Quiz/>
+
+<Quiz> <QuizTitle>Food Quiz<QuizTitle/>
+<Description>Nobody can get it wrong. It’s a set of food trivia multiple-choice questions.  The vast majority of people do not even require options. When you mention food, everyone says, “There are no wrong answers here.” <Description/>
+
+<Questions>
+1. Which country is the largest producer of peanuts? 
+A. USA
+B. Mexico
+C. India
+D. China
+Answer: D
+
+2. Apart from water, what is the most popular drink in the world?
+A. Tea
+B. Coffee
+C. Beer
+D. Orange Juice
+Answer: A
+
+21. What is guacamole made of?
+A. Banana
+B. Yoghurt
+C. Avocado
+D. Chick Pea
+Answer: C
+
+2. What type of cheese is a ‘Cabécou’ in France?
+A. Blue cheese
+B. Cream cheese
+C. Goat cheese
+D. Cheddar cheese
+Answer: C
+
+3. Chia seeds were a staple in which cuisine?
+A. Ancient Chinese
+B. Ancient Greek
+C. Ancient Rome
+D. Ancient Aztec
+Answer: D
+
+4. What is tofu made from?
+A. Rice
+B. Beans
+C. Soy
+D. Almond
+Answer: C
+
+5. What is the minimum maturation time of Parmesan?
+A. 6 months
+B. 12 months
+C. 18 months
+D. 24 months
+Answer: B
+
+7. Bacalhau is Portugal’s national food. What type of fish is it?
+A. Salmon
+B. Cod
+C. Anchovies
+D. Eel
+Answer: B
+
+8. What type of food is a ‘Scouse’?
+A. An omelette
+B. A pie
+C. A cake
+D. A stew
+Answer: D
+
+9. What type of dessert is a Zabaione?
+A. A cake
+B. A cupcake
+C. A custard
+D. Ice cream
+Answer:C
+
+10. MKR (My Kitchen Rules) is a popular cooking TV show in which country?
+A. USA
+B. UK
+C. Ireland
+D. Australia
+Answer: D
+<Questions/>
+ <Quiz/>
+
+<Quiz> <QuizTitle>Science and History Quiz<QuizTitle/>
+<Description>Science enthusiasts! Here’s a fun activity for you. Science  trivia questions multiple choice will allow you to demonstrate whether or not you truly enjoy this subject. History trivia questions multiple choice questions can be an excellent way to learn about ancient times. We agree that history can be a tedious subject, but by using trivia, you can recall a few events. <Description/>
+
+<Questions>
+1. What percent of Earth’s oxygen is produced by the Amazon rainforest?
+A. 30%
+B. 20%
+C. 10%
+Answer: B
+
+16. Who was the 40th President of the United States?
+A. Franklin D. Roosevelt
+B. Ronald Reagan
+C. Bill Clinton
+D. George W. Bush
+Answer: B
+
+24. In which city was Martin Luther King Jr. assassinated?
+A. New York
+B. Austin
+C. Miami
+D. Memphis
+Answer: D
+
+2. Which of the following animal has the largest brain?
+A. Asian Elephant
+B. Rhinoceros
+C. Sperm Whale
+D. Correct!
+Answer: C
+
+3. What planet in our solar system has the strongest gravity?
+A. Saturn
+B. Neptune
+C. Jupiter
+Answer: C
+
+4. Which of the following animals has the largest ears?
+A. African Elephant
+B. Rhinoceros
+C. Asian Elephant
+Answer: A
+
+5. Which of the following is the world’s largest active volcano?
+A. Mauna Loa
+B. Mount Helen
+C. Mount Yasur
+Answer: A
+
+6. Which animal has the longest tongue relative to its total body size?
+A. Chameleon
+B. Pangolin
+C. Anther
+Answer: A
+
+7. At what temperature Celsius and Fahrenheit equal?
+A. -32
+B. -38
+C. -40
+Answer: C
+
+8. What is the chemical symbol for table salt?
+A. S
+B. NaCl
+C. NH4F
+Answer: B
+
+9. What is the pH and water?
+A. 1
+B. 7
+C. 14
+Answer: A
+
+10. First world war was held in
+A. 1944
+B. 1907
+C. 1914
+Answer: C
+
+1. Konark Temples are related to which of the following dynasties?
+A. Ganga
+B. Pallavas
+C. Chandelas
+D. Cholas
+Answer: A
+
+2. The name of which among the following king of the Hellenistic Seleucid Kingdom has been inscribed on the edicts of Asoka?
+A.  Antiochus I Soter
+B. Seleucus II
+C. Antiochus II Theos
+D. Seleucus IV Philopator
+Answer: C
+
+3. Which among the following site has yielded the cultural remains from Neolithic to Harappan era?
+A. Dholavira
+B. Mohenjo-Daro
+C. Harappa
+D. Mehrgarh
+Answer: D
+
+4. Which among the following dynasty was identified only on the basis of Coins?
+A. Gupta
+B. Kushana
+C. Rastrakuta
+D. Chalukya
+Answer: B
+
+5. Which of the following rulers were contemporary of Buddha?
+A. Bimbisar of Magadha
+B. Prasenjit (Pansedi) of Kosala
+C. Udayan of Avanti
+D. All of Above
+Answer: D
+
+6. Rummindei Pillar Inscription which talks about taxation in Maurya era has been found at which of the following places?
+A. Junagarh in Gujarat
+B. Ranchi in Jharkhand
+C. Bhabru in Rajasthan
+D. Lumbini in Nepal
+Answer: D
+
+7. Heliodorus’ a Greek ambassador of the Indo-Greek king was sent to the court of which ruler
+A. Bhagbhadra
+B. Devabhut
+C. Pushyamitra
+D. Ghosha
+Answer: A
+
+8. Which of the following Jain Tirthankara have been mentioned in Rigveda?
+A. Rishabha and Aristanemi
+B. Mahavira and Parsvanath
+C. Rishabha and Malinath
+D. Parsvanath and Rishabha
+Answer: A
+
+10. Who among the following is writer of the ‘Kalpasutra’?
+A. Simuka
+B. Panini
+C. Bhadrabahu
+D. Patanjali
+Answer: C
+<Questions/>
+ <Quiz/>
+
+
+<Quiz> <QuizTitle>Food Quiz<QuizTitle/>
+<Description> JSON Objective type Questions with multiple choice  answers. Train your knowledge about this amazing type of file! <Description/>
+<Questions>
+1. JSON name/value pair is written as
+A. name’ : ‘value’
+B. name = ‘value’
+C. name = “value”
+D. “name” : “value”
+Answer: D
+
+2. JSON strings have to be in
+A. single quote
+B. double quote
+C. single quote or double quote
+Answer:B
+
+3. In the below notation, Employee is of type { “Employee”: [ “Amy”, “Bob”, “John” ] }
+A. Not a valid JSON string
+B. Array
+C. Class
+D. Object
+Answer:B
+
+4. Which of the following is not a JSON type?
+A. Object
+B. date
+C. Array
+D. string
+Answer:B
+
+5. Which of these is correct about the JSON standard?
+A. It is an open standard
+B. It is privately developed
+C. It requires a license to use
+Answer:A
+
+6. What is the file extension of JSON?
+A. .jn
+B. .js
+C. .jsn
+D. .json
+Answer:D
+
+7. In modern websites what is the common usage for JSON?
+A. To store information remotely.
+B. To send and receive bits of data.
+C. To store information locally.
+Answer:B
+
+8. Which of the following code will return a valid JSON object?
+A. JSON.parse(‘({“FirstName”: “John”, “LastName”:”Doe”})’);
+B. JSON.parse(“{‘FirstName’: ‘John’, ‘LastName’:’Doe’}”);
+C. JSON.parse(“({‘FirstName’: ‘John’, ‘LastName’:’Doe’})”);
+D. JSON.parse(‘{“FirstName”: “John”, “LastName”:”Doe”}’);
+Answer:D
+
+9. Which of these is proper a JSON array?
+A. { “letters” : [ “a”, “b”, “c”; ] }
+B. { ‘letters’ : {“a”, “b”, “c” } }
+C. { “letters” : [ a, b, c ] }
+D. { “letters” : [ “a”, “b”, “c” ] }
+Answer:D
+
+10. In the below notation, Employee is of type { “Employee”: { “Name”: “Amy”, “Age”: 25 } }
+A. Object
+B. Array
+C. Class
+D. Not a valid JSON string
+Answer:A
+
+11. Which answer represents the following order of TYPES? Object, String, Boolean, Number
+A. “{ }”, “a string”, “false”, “0”
+B. [ ], 0, “true”, “0”
+C. { }, “0”, false, 0
+D. { }, hello, “false”, “0”
+Answer:C
+
+12. In this example, what is the TYPE of employee?
+{ “employee” : { “type” : “Director”, “functions” : [‘sales’, ‘marketing’] } }
+A. String
+B. Director
+C. type
+D. Object
+Answer:D
+
+13. Given this JSON example:
+{ “Employee”: { “Name”: “Amy”, “Age”: 25 } }; What is the type of Employee.Age ?
+A. Number
+B. Object
+C. Array
+D. String
+Answer:A
+
+14. Which of these is a benefit JSON has over XML?
+A. JSON is more forgiving of poor formatting
+B. JSON has less markup requirements and therefore is lighter than XML
+C. JSON can be written poorly and still be parsed
+D. JSON does not need to be stored in a file to be sent remotely
+Answer:B
+
+15. Which statement about the replacer parameter in JSON.stringify() is true?
+A. If null or omitted, all properties of the object are included in the resulting JSON string
+B. If a function, transforms values and properties encountered while stringifying
+C. All three statements are true
+D. If an array, specifies the names of the properties in the object to include in the resulting JSON string
+Answer:C
+
+16. What does JSON stand for?
+A. JavaScript Object Nomenclature
+B. JavaScript Objective Notation
+C. JavaScript Object Notation
+D. JavaScript Orientated Nomenclature
+Answer:C
+
+17. JSON elements are separated by
+A. semi-colon
+B. line break
+C. comma
+D. white space
+Answer:C
+
+18. What keywords are reserved in JSON and cannot be used as keys?
+A. Value
+B. Object
+C. There are none.
+D. Key
+Answer:C
+
+19. Which of the following is a valid JSON string?
+A. { “meals” : { “breakfast” , “lunch” , “dinner” } }
+B. { “meals” : [ “breakfast” , “lunch” , “dinner” ] }
+C. [ “meals” : { “breakfast” , “lunch” , “dinner” } ]
+D. [ {“meals” : { “breakfast” , “lunch” , “dinner” } } ]
+Answer:B
+
+20. Which of the following code will throw an error?
+A. JSON.parse(null);
+B. JSON.parse(‘{}’);
+C. JSON.parse(undefined);
+D. JSON.parse(‘[]’);
+Answer: C
+
+21. Which statement about the toJSON method is true?
+A. It customizes JSON stringification behavior
+B. It allows an object to determine its own JSON representation
+C. All three statements are true
+D. It is internally called by JSON.stringify()
+Answer: C
+
+22. Which of these data interchange formats has seen a decline in usage in favor of JSON?
+A. ASCII
+B. Plain-text
+C. SQL
+D. XML
+Answer: D
+
+23. True or false? A disadvantage of JSON is that it requires the use of JavaScript.
+A. False, JSON is language independent.
+B. False, JavaScript must be available although it is not necessary to use.
+C. True, though all browsers have JavaScript enabled.
+D. True, though JavaScript is readily available in today’s browsers.
+Answer: A
+
+24. Which is true about JSON namespacing?
+A. JSON namespaces can be accessed immediately after receiving data.
+B. JSON namespaces can be accessed after parsing data.
+C. JSON doesn’t have namespaces. Though every object is inherently a namespace.
+Answer:C
+
+25. What kind of format is JSON, and what does the acronym mean?
+A. A lightweight data-encoding framework. Java Omnipresent Notation.
+B. A lightweight data-interchange format. JavaScript Object Notation.
+C. A lightweight data-interchange format. Java Objective Notion.
+D. A lightweight database framework. JavaScript Object Notation.
+Answer: B
+
+26. Can you use a double quote inside a JSON string?
+A. Yes, if you use the ascii code.
+B. Yes, you can use it without any special treatment
+C. Yes, if it is escaped like ( \” )
+D. No, you should use single quotes
+Answer:C
+
+27. In this example, what is the TYPE of employee.functions?
+{ “employee” : { “type” : “Director”, “functions” : [‘sales’, ‘marketing’] } }
+A. String
+B. Object
+C. Array
+D. Sales, Marketing
+Answer:C
+
+28. Which statement about the reviver parameter in JSON.parse() is true?
+A. All three statements are true
+B. Used to reform generic objects into instances of pseudo-classes
+C. A function that will be called for every key and value at every level of the final result
+D. Each value will be replaced by the result of the reviver function
+Answer: A
+
+29. What function will convert a JavaScript object to a JSON string?
+A. JSON.text()
+B. JSON.serialize()
+C. JSON.toString()
+D. JSON.stringify()
+Answer: D
+
+30. In this example, what would the VALUE of employee.functions[1] be?
+{ “employee” : { “type” : “Director”, “functions” : [‘sales’, ‘marketing’] } }
+A. null
+B. undefined
+C. marketing
+D. sales
+Answer: C
+
+31. What is the MIME type of JSON?
+A. application/x-json
+B. text/json
+C. application/json
+D. application/javascript
+Answer: C
+
+32. In this example, what is the VALUE of employee.type?
+{ “employee” : { “type” : “Director”, “functions” : [‘sales’, ‘marketing’] } }
+A. String
+B. Object
+C. Director
+Answer: C
+
+33. In this example, what would the TYPE of employee.hireDate be?
+{ “employee” : { “type” : “Director”, “functions” : [‘sales’, ‘marketing’], “hireDate” : “March 8, 2011” } }
+A. March 8, 2011
+B. String
+C. Date
+D. Number
+Answer: B
+
+34. What is JSONP meant to mitigate?
+A. Size constraints of JSON
+B. Cross-domain communication
+C. Future proofing JSON as JavaScript changes.
+Answer: B
+
+35. True or false? The order of elements in JSON arrays is always preserved.
+A. False
+B. True
+Answer: B
+
+36. Which of these is supported as a JSON Value type?
+A. Infiniti
+B. Null
+C. Undefined
+D. NaN
+Answer: B
+
+37. When coding a string object in JSON, what must separate the string and the value?
+A. A space
+B. A semicolon
+C. A comma
+D. A colon
+Answer: D
+
+38. Does JSON support Unicode characters?
+A. No, JSON has no support for any kind of character encoding.
+B. No, JSON only has support for UTF-8 characters.
+C. Yes, JSON has support for Unicode characters. Allowing for almost any information in any human language
+D. Yes, only when stored as the key in a ( key : value ) pair.
+Answer: C
+
+39. What is the value of obj in the following code?
+var obj = JSON.parse(‘{“fruit”: “Apple”}’, function(k, v) { if (v == “Apple”) return “Orange” else return v; });
+A. { “fruit” : “Apple”}
+B. { “fruit” : “Orange”}
+C. {“Orange”}
+D. {“Apple”}
+Answer: B
+
+40. In what situation would you want to use XML over JSON?
+A. When JSON is not offered.
+B. When you need to use tags to structure your content.
+C. You need message validation or you’re using XSLT.
+D. Never, JSON is worlds better.
+Answer: C
+
+41. What is a JSONStringer used for?
+A. It is used to quickly create JSON text.
+B. It quickly converts JSON to Java strings.
+C. It is used to create number strings in JSON.
+D. It is used to create JSON ordered pairs.
+Answer: A
+
+42. Which of the following control characters cannot be used when writing a JSON string without escaping?
+A. ; or :
+B. “ or \
+C. < or >
+D. / or {
+Answer: B
+
+43. What is the value of json in the following code?
+var days = {}; days[‘Monday’] = true; days[‘Wednesday’] = true; days[‘Sunday’] = false; var json = JSON.stringify({x: days});
+A. {“day”:{“Monday”:”true”,”Wednesday”:”true”,”Sunday”:”false”}}
+B. {“x”:{“Monday”:true,”Wednesday”:true,”Sunday”:false}}
+C. {“day”:{“Monday”:true,”Wednesday”:true,”Sunday”:false}}
+D. {“x”:[“Monday”:true,”Wednesday”:true,”Sunday”:false]}
+Answer: B
+
+44. How does JSON being “lightweight” translate into a benefit for the site visitors?
+A. Faster transfer times over the internet
+B. Parsing JSON is noticeably faster than parsing XML
+C. Web apps have a smaller footprint
+Answer: A
+
+45. What error does JSON.parse() throw when the string to parse is not valid JSON?
+A. ReferenceError
+B. EvalError
+C. SyntaxError
+D. TypeError
+Answer: C
+
+46. What two structures is JSON built on?
+A. A collection of name/value pairs, and an ordered list of values, or array.
+B. A collection of object/item pairs, and an ordered list of pairs, or array.
+C. A collection of name/value objects, and an ordered list of objects, or array.
+D. A collection of native-value pairs, and an ordered list of arrays, or values.
+Answer: A
+
+47. Which of the following is not a valid way to parse JSON string?
+A. JSON.eval()
+B. JSON.parse()
+C. jQuery.parseJSON()
+D. eval()
+Answer: A
+
+48. Does whitespace matter in JSON?
+A. No, it will be stripped out.
+B. Yes, only within strings.
+C. Yes, only outside of strings.
+D. Yes, both inside and outside of strings
+Answer: B
+
+49. What is the value of json in the following code?
+var cars = []; cars[0] = ‘Ford’; cars[1] = ‘Toyota’; cars[2] = ‘BMW’; var json = JSON.stringify({x: cars});
+A. {“x”:[‘Ford’,’Toyota’,’BMW’]}
+B. {“x”:{“Ford”,”Toyota”,”BMW”}}
+C. {“x”:[“Ford”,”Toyota”,”BMW”]}
+D. {“cars”:[“Ford”,”Toyota”,”BMW”]}
+Answer: C
+
+50. What is the value of json in the following code?
+var obj = { fruit: ‘apple’, toJSON: function () { return ‘orange’; } }; var json = JSON.stringify({x: obj});
+A. {“x”:”orange”}
+B. {“fruit”:”apple”}
+C. {“x”:”apple”}
+D. {“fruit”:”orange”}
+Answer: A
+
+51. What types of values can you have in JSON key:value pairs?
+A. Strings, Arrays, and Primitives
+B. Arrays, Primitives, and Objects stored as strings
+C. Strings, Arrays, Primitives and Objects
+D. Strings only
+Answer: C
+
+52. What does JSONP stand for?
+A. JSON Procedures
+B. JSON Parsing
+C. JSON with padding
+D. JSON Programming
+Answer: C
+
+53. Which of the following code will not throw an error?
+A. JSON.parse(”);
+B. JSON.parse(null);
+C. JSON.parse();
+D. JSON.parse({});
+Answer:B
+
+54. How does JSON handle numeric values that cannot be represented by a sequence of digits (like Infiniti and Nan)?
+A. They are stored as strings and then converted when parsed.
+B. They are not permitted.
+C. They are stored fine but it’s the parsers job to convert them to numeric values.
+Answer: B
+
+55. Which of the following number formats are not used in JSON?
+A. Octal and gate
+B. Octal and binary
+C. Binary and hexadecimal
+D. Octal and hexadecimal
+Answer: D
+
+56. What is used by the JSONObject and JSONArray constructors to parse JSON source strings?
+A. JSONTokener
+B. JSONParser
+C. JParser
+D. ParserJ
+Answer: A
+
+57. Which statement about the space parameter in JSON.stringify() is false?
+A. It controls spacing in the resulting JSON string
+B. All three statements are false
+C. It removes whitespace
+D. It is an optional parameter
+Answer: A
+
+58. True of False? The external form of a JSON object always begins and ends with {}
+A. True
+B. False
+Answer: A
+
+59. True of False. The order of JSON objects is always preserved.
+A. False
+B. True
+Answer: A
+<Questions/>
+ <Quiz/>
+
+

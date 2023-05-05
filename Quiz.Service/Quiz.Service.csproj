@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Quiz.Data\Quiz.Data.csproj" />
+    <ProjectReference Include="..\Quiz.Models\Quiz.Models.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Importers\QuizQuestionsJSON.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>
