@@ -33,7 +33,12 @@
         public const string QuestionAnswerMessage = "   {0}. {1}";
 
 
-        //ResultQuiz Messages 
+
+
+        //Report Messages
+        public const string CorrectAnswerMessage = "Correct answer: {0}";
+        public const string UserAnswerMessage = "Your answer: {0}";
+
 
         public const string CurrentQuizResult = "You finished {0} with {1}/10 correct answers! Your time: {2}";
 
@@ -45,9 +50,5 @@
 
 
         public const string BackToSettingsMenu = "Back to Settings";
-
-
-
-
     }
 }

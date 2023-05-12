@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Emo\\SU_repos\\QuizConsoleApp\\Quiz.Models\\Quiz.Models.csproj": {}
+    "D:\\Emo\\SU_repos\\QuizLand_ConsoleApp\\Quiz.Models\\Quiz.Models.csproj": {}
   },
   "projects": {
-    "D:\\Emo\\SU_repos\\QuizConsoleApp\\Quiz.Models\\Quiz.Models.csproj": {
+    "D:\\Emo\\SU_repos\\QuizLand_ConsoleApp\\Quiz.Models\\Quiz.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Emo\\SU_repos\\QuizConsoleApp\\Quiz.Models\\Quiz.Models.csproj",
+        "projectUniqueName": "D:\\Emo\\SU_repos\\QuizLand_ConsoleApp\\Quiz.Models\\Quiz.Models.csproj",
         "projectName": "Quiz.Models",
-        "projectPath": "D:\\Emo\\SU_repos\\QuizConsoleApp\\Quiz.Models\\Quiz.Models.csproj",
+        "projectPath": "D:\\Emo\\SU_repos\\QuizLand_ConsoleApp\\Quiz.Models\\Quiz.Models.csproj",
         "packagesPath": "C:\\Users\\OMEN\\.nuget\\packages\\",
-        "outputPath": "D:\\Emo\\SU_repos\\QuizConsoleApp\\Quiz.Models\\obj\\",
+        "outputPath": "D:\\Emo\\SU_repos\\QuizLand_ConsoleApp\\Quiz.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\OMEN\\AppData\\Roaming\\NuGet\\NuGet.Config",

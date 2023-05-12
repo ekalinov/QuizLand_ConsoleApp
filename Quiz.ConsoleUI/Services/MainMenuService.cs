@@ -22,6 +22,7 @@ namespace Quiz.ConsoleUI.Services
 
         public   void RunInteractiveMenu()
         {
+            Console.Clear();
             // Create options that you want your menu to have
             options = new List<Option>
             {

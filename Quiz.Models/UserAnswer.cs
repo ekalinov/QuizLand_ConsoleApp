@@ -7,23 +7,24 @@ using System.Threading.Tasks;
 
 namespace Quiz.Models
 {
-    public class UserAnswer
+    public class UserQuiz
     {
         public int Id { get; set; }
 
-        public string UserId { get; set; } = null!;
+        public int UserId { get; set; }
 
-        public IdentityUser User { get; set; } = null!;
-
-
-        public int? AnswerId { get; set; }
-
-        public Answer? Answer { get; set; }
+        public User User { get; set; } = null!;
 
 
-        public int QuestionId { get; set; }
+        public int QuizId { get; set; } 
 
-        public Question Question { get; set; } = null!;
+        public Quiz Quiz { get; set; } = null!;
+
+
+        public int UserPoints { get; set; }
+
+        public TimeSpan UserElapsedTime { get; set; }
 
     }
 }
+    

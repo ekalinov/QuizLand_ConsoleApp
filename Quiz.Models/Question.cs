@@ -6,7 +6,6 @@
         public Question()
         {
             this.Answers = new HashSet<Answer>();
-            this.UserAnswers = new HashSet<UserAnswer>();
         }
 
         public int Id { get; set; }
@@ -23,6 +22,5 @@
 
         public virtual ICollection<Answer> Answers { get; set; } = null!;
 
-        public virtual ICollection<UserAnswer> UserAnswers { get; set; } = null!;
     }
 }

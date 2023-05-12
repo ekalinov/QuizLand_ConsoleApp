@@ -5,6 +5,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Quiz.ConsoleUI.Services;
 using Quiz.Data;
+using Quiz.Service.Importers;
 
 namespace Quiz.ConsoleUI
 {
@@ -17,20 +18,19 @@ namespace Quiz.ConsoleUI
             ConfigureServices(serviceCollection);
             var serviceProvider = serviceCollection.BuildServiceProvider();
             
-            serviceProvider.GetService<ApplicationDbContext>();
+           //var dbContext = serviceProvider.GetService<ApplicationDbContext>();
 
-            //dbContext.Database.EnsureDeleted();
-            //dbContext.Database.EnsureCreated();
+           // dbContext!.Database.EnsureDeleted();
+           // dbContext.Database.EnsureCreated();
 
             //DB seeding
 
             //var questionImporrterService = serviceProvider.GetService<IQuestionImporterService>();
-            //questionImporrterService.ImportQuestionsFromTextFile( "QuizQuestionsJSON.txt");
+            //questionImporrterService!.ImportQuestionsFromTextFile("QuizQuestionsJSON.txt");
 
 
-           var mainMenuService = serviceProvider.GetService<IMainMenuService>();
+            var mainMenuService = serviceProvider.GetService<IMainMenuService>();
 
-            // mainMenuService!.Run();
              mainMenuService!.RunInteractiveMenu();
 
         }
@@ -53,6 +53,7 @@ namespace Quiz.ConsoleUI
 
 
            services.AddTransient<IMainMenuService,MainMenuService>();
+           services.AddTransient<IQuestionImporterService, QuestionImporterService>();
 
 
         }

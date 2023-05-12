@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "05ZQ0BR7+U9YliuvFWefJ9LZrz+2RMIFHPEuh2YU5pLIn66SoRWmqODuYQIlpnDrBLQ9BX8lhTzsqYbEtmaQmw==",
+  "dgSpecHash": "afEtcIVoNbWGbj+tZ+IZnymNR44Wl9SDq9CtYIpxg3wzyz5UesQfc1JIXaZDsx6F27avndJ2FZ0qI5tVn5788w==",
   "success": true,
-  "projectFilePath": "D:\\Emo\\SU_repos\\QuizConsoleApp\\Quiz.Models\\Quiz.Models.csproj",
+  "projectFilePath": "D:\\Emo\\SU_repos\\QuizLand_ConsoleApp\\Quiz.Models\\Quiz.Models.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\OMEN\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.10\\microsoft.aspnetcore.cryptography.internal.6.0.10.nupkg.sha512",
     "C:\\Users\\OMEN\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\6.0.10\\microsoft.aspnetcore.cryptography.keyderivation.6.0.10.nupkg.sha512",

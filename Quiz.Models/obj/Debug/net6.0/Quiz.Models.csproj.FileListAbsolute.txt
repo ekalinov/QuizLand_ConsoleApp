@@ -22,3 +22,15 @@ D:\Emo\SU_repos\QuizConsoleApp\Quiz.Models\obj\Debug\net6.0\Quiz.Models.dll
 D:\Emo\SU_repos\QuizConsoleApp\Quiz.Models\obj\Debug\net6.0\refint\Quiz.Models.dll
 D:\Emo\SU_repos\QuizConsoleApp\Quiz.Models\obj\Debug\net6.0\Quiz.Models.pdb
 D:\Emo\SU_repos\QuizConsoleApp\Quiz.Models\obj\Debug\net6.0\ref\Quiz.Models.dll
+D:\Emo\SU_repos\QuizLand_ConsoleApp\Quiz.Models\bin\Debug\net6.0\Quiz.Models.deps.json
+D:\Emo\SU_repos\QuizLand_ConsoleApp\Quiz.Models\bin\Debug\net6.0\Quiz.Models.dll
+D:\Emo\SU_repos\QuizLand_ConsoleApp\Quiz.Models\bin\Debug\net6.0\Quiz.Models.pdb
+D:\Emo\SU_repos\QuizLand_ConsoleApp\Quiz.Models\obj\Debug\net6.0\Quiz.Models.csproj.AssemblyReference.cache
+D:\Emo\SU_repos\QuizLand_ConsoleApp\Quiz.Models\obj\Debug\net6.0\Quiz.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Emo\SU_repos\QuizLand_ConsoleApp\Quiz.Models\obj\Debug\net6.0\Quiz.Models.AssemblyInfoInputs.cache
+D:\Emo\SU_repos\QuizLand_ConsoleApp\Quiz.Models\obj\Debug\net6.0\Quiz.Models.AssemblyInfo.cs
+D:\Emo\SU_repos\QuizLand_ConsoleApp\Quiz.Models\obj\Debug\net6.0\Quiz.Models.csproj.CoreCompileInputs.cache
+D:\Emo\SU_repos\QuizLand_ConsoleApp\Quiz.Models\obj\Debug\net6.0\Quiz.Models.dll
+D:\Emo\SU_repos\QuizLand_ConsoleApp\Quiz.Models\obj\Debug\net6.0\refint\Quiz.Models.dll
+D:\Emo\SU_repos\QuizLand_ConsoleApp\Quiz.Models\obj\Debug\net6.0\Quiz.Models.pdb
+D:\Emo\SU_repos\QuizLand_ConsoleApp\Quiz.Models\obj\Debug\net6.0\ref\Quiz.Models.dll

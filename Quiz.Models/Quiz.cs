@@ -12,6 +12,7 @@ namespace Quiz.Models
         public Quiz()
         {
             this.Questions= new HashSet<Question>();
+            this.TopUsers = new HashSet<UserQuiz>();
         }
 
         public int Id { get; set; }
@@ -24,6 +25,11 @@ namespace Quiz.Models
 
 
         public virtual ICollection<Question> Questions { get; set; } = null!;
+
+        public TimeSpan  QuizElapsedTime { get; set; }
+
+        public virtual ICollection<UserQuiz> TopUsers { get; set; }
+
 
     }
 }

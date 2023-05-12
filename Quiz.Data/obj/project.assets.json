@@ -2659,11 +2659,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Emo\\SU_repos\\QuizConsoleApp\\Quiz.Data\\Quiz.Data.csproj",
+      "projectUniqueName": "D:\\Emo\\SU_repos\\QuizLand_ConsoleApp\\Quiz.Data\\Quiz.Data.csproj",
       "projectName": "Quiz.Data",
-      "projectPath": "D:\\Emo\\SU_repos\\QuizConsoleApp\\Quiz.Data\\Quiz.Data.csproj",
+      "projectPath": "D:\\Emo\\SU_repos\\QuizLand_ConsoleApp\\Quiz.Data\\Quiz.Data.csproj",
       "packagesPath": "C:\\Users\\OMEN\\.nuget\\packages\\",
-      "outputPath": "D:\\Emo\\SU_repos\\QuizConsoleApp\\Quiz.Data\\obj\\",
+      "outputPath": "D:\\Emo\\SU_repos\\QuizLand_ConsoleApp\\Quiz.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\OMEN\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2680,8 +2680,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Emo\\SU_repos\\QuizConsoleApp\\Quiz.Models\\Quiz.Models.csproj": {
-              "projectPath": "D:\\Emo\\SU_repos\\QuizConsoleApp\\Quiz.Models\\Quiz.Models.csproj"
+            "D:\\Emo\\SU_repos\\QuizLand_ConsoleApp\\Quiz.Models\\Quiz.Models.csproj": {
+              "projectPath": "D:\\Emo\\SU_repos\\QuizLand_ConsoleApp\\Quiz.Models\\Quiz.Models.csproj"
             }
           }
         }

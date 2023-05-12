@@ -23,7 +23,6 @@ namespace Quiz.ConsoleUI.Views
         private static void DrawInteractivWindow(string bodyText)
         {
             {
-                
                 Console.BackgroundColor = ConsoleConstants.BackgroundColor;
                 Console.ForegroundColor = ConsoleConstants.TextColor;
                 Console.SetWindowSize(ConsoleConstants.ConsoleWindowWidth, ConsoleConstants.ConsoleWindowHeight);

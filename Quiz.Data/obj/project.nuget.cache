@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7Uv5RW8iSAv50D7zsRQZwgIltVQ0BBsCS/AlntvEo6yjJPbCGORJ661RWcmVaw2r9N0XW8w0qEgGJI7ShiMmMQ==",
+  "dgSpecHash": "kY7fFTdq1HvqWaXgYnVYzc5OWk11eA1xH/tied273h//biJw5kZbTK0gaW3C+u5vwbhGqiHe1RipVdcFnrD6+w==",
   "success": true,
-  "projectFilePath": "D:\\Emo\\SU_repos\\QuizConsoleApp\\Quiz.Data\\Quiz.Data.csproj",
+  "projectFilePath": "D:\\Emo\\SU_repos\\QuizLand_ConsoleApp\\Quiz.Data\\Quiz.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\OMEN\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\OMEN\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.10\\microsoft.aspnetcore.cryptography.internal.6.0.10.nupkg.sha512",
