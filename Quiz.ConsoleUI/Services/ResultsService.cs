@@ -18,7 +18,7 @@ namespace Quiz.ConsoleUI.Services
             throw new NotImplementedException();
         }
 
-        public bool IsNewBestScore(ApplicationDbContext dbContext,string quizTitle, int userPoints, TimeSpan userTimeSpan)
+        public static bool IsNewBestScore(ApplicationDbContext dbContext,string quizTitle, int userPoints, TimeSpan userTimeSpan)
         {
             BestQuizUser? bestPlayerResults = dbContext.UsersQuizzes
                 .Where(q => q.Quiz.Title == quizTitle)
@@ -64,7 +64,7 @@ namespace Quiz.ConsoleUI.Services
 
                 .AppendLine();
 
-            foreach (var question in report.Questions)
+            foreach (var question in report.Questions)                  
             {
                 sb
                     .AppendLine(question.QuestionTitle)

@@ -46,8 +46,13 @@ namespace Quiz.ConsoleUI.Services
 
 
 
+
             quizReport.UserElapsedTime = ts;
 
+            if (ResultsService.IsNewBestScore(dbContext, quizTitle, quizReport.UserPoints, quizReport.UserElapsedTime))
+            {
+                //TODO: 
+            }
 
             string result = ResultsService.ShowReport(quizReport);
 
