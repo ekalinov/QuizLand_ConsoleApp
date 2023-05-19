@@ -10,6 +10,9 @@ QuizLand is a fun and educational console application built in C# that allows us
 
 TODO: The application keeps track of the best performance for each quiz, including the username and time taken to complete the quiz.
 
+TODO: Use asynchronous programming for displaing the elapsed time.
+
+
 
 Additionally, the app has a setting that lets users customize the appearance of the app, allowing them to change the background color and text color to their preferences.
 ![image](https://user-images.githubusercontent.com/106105805/236440791-082a31a9-5656-46fd-8c89-e49dcbb1586b.png)
