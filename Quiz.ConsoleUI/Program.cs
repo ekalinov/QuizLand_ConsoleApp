@@ -17,13 +17,13 @@ namespace Quiz.ConsoleUI
             var serviceCollection = new ServiceCollection();
             ConfigureServices(serviceCollection);
             var serviceProvider = serviceCollection.BuildServiceProvider();
-            
-           //var dbContext = serviceProvider.GetService<ApplicationDbContext>();
 
-           // dbContext!.Database.EnsureDeleted();
-           // dbContext.Database.EnsureCreated();
+            //var dbContext = serviceProvider.GetService<ApplicationDbContext>();
 
-            //DB seeding
+            //dbContext!.Database.EnsureDeleted();
+            //dbContext.Database.EnsureCreated();
+
+            ////DB seeding
 
             //var questionImporrterService = serviceProvider.GetService<IQuestionImporterService>();
             //questionImporrterService!.ImportQuestionsFromTextFile("QuizQuestionsJSON.txt");
@@ -52,9 +52,10 @@ namespace Quiz.ConsoleUI
                  .AddEntityFrameworkStores<ApplicationDbContext>();
 
 
-           services.AddTransient<IMainMenuService,MainMenuService>();
-           services.AddTransient<IQuestionImporterService, QuestionImporterService>();
-
+           services.AddSingleton<IMainMenuService,MainMenuService>();
+           services.AddSingleton<IQuestionImporterService, QuestionImporterService>();
+            services.AddSingleton<IStartEndQuizService, StartEndQuizService>();
+            services.AddSingleton<ISettingsService, SettingsService>();
 
         }
     }

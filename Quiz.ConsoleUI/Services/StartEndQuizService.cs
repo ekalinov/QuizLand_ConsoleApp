@@ -9,6 +9,7 @@ using Quiz.Models;
 
 using System.Diagnostics;
 using System.Runtime.Versioning;
+using System.Text;
 
 namespace Quiz.ConsoleUI.Services
 {
@@ -16,18 +17,39 @@ namespace Quiz.ConsoleUI.Services
     public class StartEndQuizService : IStartEndQuizService
     {
         private List<Option> options;
+        private ApplicationDbContext dbContext;
+        private IMainMenuService mainMenuService;
 
         public StartEndQuizService()
         {
-            
+            this.mainMenuService= new MainMenuService();
+            this.dbContext= new ApplicationDbContext();
             this.options = new List<Option>();
         }
 
-       
+        public void ChooseQuiz()
+        {
+            //var dbContext = new ApplicationDbContext();
+
+            var quizzes = dbContext.Quizzes
+                .Select(q => new QuizViewModel { Title = q.Title, Description = q.Description! })
+                .ToList();
+
+            // Create options that you want your menu to have
+            options = new List<Option>();
+            foreach (var quiz in quizzes)
+            {
+                options.Add(new Option(quiz.Title, () => ConfirmStartQuiz(quiz.Title, quiz.Description)));
+
+            }
+            options.Add(new Option(Messages.BackToMainMenuMessage, () => mainMenuService.RunInteractiveMenu()));
+
+            Utilities.ChooseOption(options, Messages.ChooseQuiz);
+        }
 
         public void StartQuiz(string quizTitle)
         {
-            var dbContext = new ApplicationDbContext();
+           // var dbContext = new ApplicationDbContext();
 
             Stopwatch sw = Stopwatch.StartNew();
 
@@ -49,7 +71,7 @@ namespace Quiz.ConsoleUI.Services
 
             quizReport.UserElapsedTime = ts;
 
-            if (ResultsService.IsNewBestScore(dbContext, quizTitle, quizReport.UserPoints, quizReport.UserElapsedTime))
+            if (ResultsService.IsNewBestScoreStatic(dbContext, quizTitle, quizReport.UserPoints, quizReport.UserElapsedTime))
             {
                 //TODO: 
             }
@@ -104,6 +126,55 @@ namespace Quiz.ConsoleUI.Services
             Utilities.ChooseOption(options, result);
 
 
+
+        }
+
+
+        public void ConfirmStartQuiz(string quizName, string quizDescrioption)
+        {
+            // var startEndQuizService = new StartEndQuizService();
+            var sb = new StringBuilder();
+
+            sb
+           .AppendLine(String.Format(Messages.QuizToAttendMessage, quizName))
+                .AppendLine("")
+                .AppendLine("")
+                .AppendLine(quizDescrioption);
+
+
+            // Create options that you want your menu to have
+            options = new List<Option>
+            {
+                new Option(String.Format(Messages.StartQuiz,quizName), () => StartQuiz(quizName)),
+                new Option(Messages.BackToMainMenuMessage, () => mainMenuService.RunInteractiveMenu()),
+            };
+
+            Utilities.ChooseOption(options, sb.ToString());
+
+        }
+
+        public void ConfirmStartRandomQuiz()
+        {
+            // var startEndQuizService = new StartEndQuizService();
+
+
+            var sb = new StringBuilder();
+
+            sb
+           .AppendLine(String.Format(Messages.QuizToAttendMessage, Messages.RandomQuizName))
+                .AppendLine("")
+                .AppendLine("")
+                .AppendLine(Messages.RandomQuizDescription);
+
+
+            // Create options that you want your menu to have
+            options = new List<Option>
+            {
+                new Option(Messages.RandomQuizMessage, () =>StartRandomQuiz()),
+                new Option(Messages.BackToMainMenuMessage, () => mainMenuService.RunInteractiveMenu()),
+            };
+
+            Utilities.ChooseOption(options, sb.ToString());
 
         }
 

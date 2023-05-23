@@ -1,24 +1,26 @@
-﻿using Microsoft.EntityFrameworkCore;
-using Quiz.ConsoleUI.Common;
+﻿using Quiz.ConsoleUI.Common;
 using Quiz.ConsoleUI.Models;
 using Quiz.Data;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Reflection.Metadata.Ecma335;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace Quiz.ConsoleUI.Services
 {
     public class ResultsService : IResultsService
     {
+
+
+        public void Results()
+        {
+            Console.WriteLine("TODO: REsult"); 
+        }
+
+
         public void History()
         {
             throw new NotImplementedException();
         }
 
-        public static bool IsNewBestScore(ApplicationDbContext dbContext,string quizTitle, int userPoints, TimeSpan userTimeSpan)
+        public static bool IsNewBestScoreStatic(ApplicationDbContext dbContext,string quizTitle, int userPoints, TimeSpan userTimeSpan)
         {
             BestQuizUser? bestPlayerResults = dbContext.UsersQuizzes
                 .Where(q => q.Quiz.Title == quizTitle)
@@ -83,6 +85,11 @@ namespace Quiz.ConsoleUI.Services
         }
 
         public void ShowResults()
+        {
+            throw new NotImplementedException();
+        }
+
+        public bool IsNewBestScore(ApplicationDbContext dbContext, string quizTitle, int userPoints, TimeSpan userTimeSpan)
         {
             throw new NotImplementedException();
         }

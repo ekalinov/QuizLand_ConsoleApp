@@ -3,6 +3,8 @@
     public interface IStartEndQuizService
     {
 
+        void ChooseQuiz();
+
         void StartQuiz(string quizName);
 
         void StartRandomQuiz();

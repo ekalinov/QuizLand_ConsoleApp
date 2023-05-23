@@ -8,6 +8,8 @@ namespace Quiz.ConsoleUI.Services
 {
     public interface ISettingsService
     {
+        void Settings();
+
         void ChooseTextColor();
 
         void ChooseBackgroungColor();
