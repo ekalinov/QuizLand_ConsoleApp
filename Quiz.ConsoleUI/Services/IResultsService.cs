@@ -15,5 +15,7 @@ namespace Quiz.ConsoleUI.Services
 
         void History();
 
+        void Results();
+
     }
 }

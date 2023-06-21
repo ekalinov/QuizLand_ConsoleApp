@@ -6,11 +6,11 @@ namespace Quiz.ConsoleUI.Services
 {
     public class SettingsService: ISettingsService
     {
-        private MainMenuService mainMenu;
+        //private IMainMenuService mainMenu;
         private List<Option> options;
-        public SettingsService()
+        public SettingsService(IMainMenuService _mainMenu)
         {
-            this.mainMenu = new MainMenuService();
+            //this.mainMenu = _mainMenu;
             this.options = new List<Option>();
         }
 
@@ -28,7 +28,7 @@ namespace Quiz.ConsoleUI.Services
             {
                 new Option(Messages.SetBackgroundColor, () => ChooseBackgroungColor()),
                 new Option(Messages.SetTextColor, () => ChooseTextColor()),
-                new Option(Messages.BackToMainMenuMessage, () => mainMenu.RunInteractiveMenu()),
+                //new Option(Messages.BackToMainMenuMessage, () => mainMenu.RunInteractiveMenu()),
             };
 
             Utilities.ChooseOption(options, sb.ToString());

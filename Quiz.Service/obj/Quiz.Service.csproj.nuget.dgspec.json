@@ -178,9 +178,6 @@
             "projectReferences": {
               "D:\\Emo\\SU_repos\\QuizLand_ConsoleApp\\Quiz.Data\\Quiz.Data.csproj": {
                 "projectPath": "D:\\Emo\\SU_repos\\QuizLand_ConsoleApp\\Quiz.Data\\Quiz.Data.csproj"
-              },
-              "D:\\Emo\\SU_repos\\QuizLand_ConsoleApp\\Quiz.Models\\Quiz.Models.csproj": {
-                "projectPath": "D:\\Emo\\SU_repos\\QuizLand_ConsoleApp\\Quiz.Models\\Quiz.Models.csproj"
               }
             }
           }

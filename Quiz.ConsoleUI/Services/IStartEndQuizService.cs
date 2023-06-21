@@ -11,5 +11,10 @@
 
         void EndQuiz(string result);
 
+        public void ConfirmStartQuiz(string quizName, string quizDescrioption);
+
+        public void ConfirmStartRandomQuiz();
+
+
     }
 }

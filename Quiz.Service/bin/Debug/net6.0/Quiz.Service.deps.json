@@ -8,8 +8,7 @@
     ".NETCoreApp,Version=v6.0": {
       "Quiz.Service/1.0.0": {
         "dependencies": {
-          "Quiz.Data": "1.0.0",
-          "Quiz.Models": "1.0.0"
+          "Quiz.Data": "1.0.0"
         },
         "runtime": {
           "Quiz.Service.dll": {}

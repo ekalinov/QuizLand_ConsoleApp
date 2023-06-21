@@ -13,7 +13,6 @@
           "Microsoft.Extensions.Configuration": "7.0.0",
           "Microsoft.Extensions.Configuration.FileExtensions": "7.0.0",
           "Microsoft.Extensions.Configuration.Json": "7.0.0",
-          "Quiz.Data": "1.0.0",
           "Quiz.Service": "1.0.0"
         },
         "runtime": {
@@ -658,8 +657,7 @@
       },
       "Quiz.Service/1.0.0": {
         "dependencies": {
-          "Quiz.Data": "1.0.0",
-          "Quiz.Models": "1.0.0"
+          "Quiz.Data": "1.0.0"
         },
         "runtime": {
           "Quiz.Service.dll": {}

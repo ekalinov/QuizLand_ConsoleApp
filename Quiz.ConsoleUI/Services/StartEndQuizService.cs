@@ -17,13 +17,13 @@ namespace Quiz.ConsoleUI.Services
     public class StartEndQuizService : IStartEndQuizService
     {
         private List<Option> options;
-        private ApplicationDbContext dbContext;
-        private IMainMenuService mainMenuService;
+        private readonly ApplicationDbContext dbContext;
+        private  readonly IMainMenuService mainMenuService;
 
-        public StartEndQuizService()
+        public StartEndQuizService(ApplicationDbContext _dbContext, IMainMenuService _mainMenuService)
         {
-            this.mainMenuService= new MainMenuService();
-            this.dbContext= new ApplicationDbContext();
+            this.mainMenuService= _mainMenuService;
+            this.dbContext= _dbContext;
             this.options = new List<Option>();
         }
 
@@ -115,11 +115,9 @@ namespace Quiz.ConsoleUI.Services
 
         public void EndQuiz(string result)
         {
-           var mainMenu = new MainMenuService();
-            // Create options that you want your menu to have
             options = new List<Option>
             {
-                new Option(Messages.BackToMainMenuMessage, () => mainMenu.RunInteractiveMenu()),
+                new Option(Messages.BackToMainMenuMessage, () => mainMenuService.RunInteractiveMenu()),
                 new Option(Messages.Exit, () => Environment.Exit(0)),
             };
 
